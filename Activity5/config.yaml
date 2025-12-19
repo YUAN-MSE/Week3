@@ -1,0 +1,8 @@
+database:
+  path: clinic.db
+  enforce_foreign_keys: true
+queries:
+  senior_age: 65
+  specialisation: Ophthalmology
+logging:
+  level: INFO
